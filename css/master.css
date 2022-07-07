@@ -1,9 +1,7 @@
 #titulo{
-	 -webkit-text-stroke: 1px black;
+	 
 	
-	color: #42e389;
-	font-family: 'Courgette', cursive;
-	font-size: 50px
+	
 
 }
 
@@ -16,16 +14,41 @@ body {
 
 }
 #software{
-	font-size: 45px;
+	-webkit-text-stroke: 0.8px white;
+	font-size: 55px;
 	color: black;
 }
 #texto1{
+	font-family: 'Courgette', cursive;
 	color: black;
+	font-size: 25px;
 }
 #imagen1{
+ width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 400px;
+  left: 800px;
 
-	width: 250px;
-	height: 200px;
-	border-radius: 20px;
-	text-align: center;
 }
+#imagen2{
+	width: 400px;
+  height: 300px;
+  border-radius: 20px;
+}
+#contenedor1{
+	
+  position: absolute;
+  top: 400px;
+  left: 100px;
+}
+#contenedor2{
+	  position: absolute;
+  top: 80px;
+  left: 350px;
+}
+#masters{
+		width: 400px;
+  height: 400px;
+}
+
