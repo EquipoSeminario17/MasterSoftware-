@@ -39,16 +39,88 @@ body {
 #contenedor1{
 	
   position: absolute;
-  top: 400px;
+  top: 500px;
   left: 100px;
 }
 #contenedor2{
-	  position: absolute;
-  top: 80px;
-  left: 350px;
+	 position: absolute;
+  top: 70px;
+  left: 300px;
+}
 }
 #masters{
 		width: 400px;
   height: 400px;
 }
+#contactlogo{
+  position: relative;
+  top: 2px;
+  left: 500px;
+}
+#contactlogo1{
+width: 200px;
+  height: 200px;
+}
+#somos{
+
+	font-size: 40px;
+
+}
+#textosomos{
+  font-size: 20px;
+}
+#contenedorsomos{
+   position: absolute;
+  top: 300px;
+  left: 400px;
+}
+#contactolibre{
+ position: absolute;
+  top: 80px;
+  left: 430px;
+}
+#libreimagen{
+  width: 350px;
+  height: 200px;
+}
+#mouse{
+  
+  
+}
+#contmouse{
+ position: absolute;
+  top: 350px;
+  left: 30px;
+} 
+#contexto2{
+
+  position: absolute;
+  top: 1200px;
+  left: 100px;
+}
+#texto2{
+
+  color: black;
+  font-size: 25px;
+  font-family: 'Cabin Sketch', cursive;
+}
+#contmac{
+  position: absolute;
+  top: 80px;
+  left: 430px;
+}
+#imagenmac{
+   width: 350px;
+  height: 200px;
+}
+#contpantallas{
+position: absolute;
+  top: 1280px;
+  left: 160px;
+}
+#pantallaimg{
+width: 350px;
+  height: 200px;
+}
+
 
